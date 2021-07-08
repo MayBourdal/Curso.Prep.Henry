@@ -1,0 +1,21 @@
+html{ background-image : url("https://ep01.epimg.net/elpais/imagenes/2019/10/30/album/1572424649_614672_1572453030_noticia_normal.jpg")}
+h3 { color:blanchedalmond}
+h4 { color:blanchedalmond}
+span{color: blanchedalmond}
+thirdDiv {height: 600px; 
+        width: 400px; 
+        background-color: black; 
+        padding: 50px; 
+        border-radius: blue 10px}
+h1 {color :fuchsia}
+spanId {font-size: 18px;
+        margin: 50px}
+
+.padre {
+    margin: 1rem;
+    padding: 1rem;
+    border: 2px solid #5b329c;
+    text-align: center;
+    }
+
+    
